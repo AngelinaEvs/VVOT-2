@@ -14,4 +14,5 @@ api-gateway - конфиг GATEWAY
 Есть база данных для сохранения информации об оригинальной фотографии.
 
 TG_BOT = https://t.me/vvot_2022_bot
-  ![img.png](img.png)
+
+  ![img](https://user-images.githubusercontent.com/57727402/209463285-5e87ed46-1cc8-4254-a971-cbf0e3e0f55d.png)
